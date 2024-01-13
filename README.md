@@ -7,13 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Codingworld2&label=Profile%20views&color=0e75b6&style=flat" alt="Codingworld2" /> </p>
 
 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<span align="left"> <a href="mailto:azouzim111@gmail.com" target="blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Codingworld2" /></a> </span>
+<span align="left"> <a href="mailto:codingworld@gmail.com" target="blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Codingworld2" /></a> </span>
 <span align="left"> <a href="https://instagram.com/coding_world2" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="Codingworld2" /></a> </span>
 </p>
 
