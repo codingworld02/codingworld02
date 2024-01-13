@@ -1,10 +1,10 @@
-![logo](https://github.com/bevvee/bevvee/blob/main/Dark%20Blue%20Holographic%20Twitter%20Header.png)
+![logo]()
 
 
-<h1 align="center">Hi 👋, I'm Mohammed Amine Elaazzouzi</h1>
-<h3 align="center">A Full-Stack Developer from Morocco </h3>
+<h1 align="center">Hi 👋, We are Codingworld2 </h1>
+<h3 align="center">A Full-Stack Developer team </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bevvee&label=Profile%20views&color=0e75b6&style=flat" alt="bevvee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codingworld2&label=Profile%20views&color=0e75b6&style=flat" alt="Codingworld2" /> </p>
 
 
 
@@ -13,12 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<span align="left"> <a href="https://twitter.com/bevvee_1" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-<span align="left"> <a href="mailto:azouzim111@gmail.com" target="blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-<span align="left"> <a href="https://discord.gg/bevvee_1" target="blank" ><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-<span align="left"> <a href="https://instagram.com/bevvee_1" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-<span align="left"> <a href="https://linkedin.com/in/medelaazzouzi" target="blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
+<span align="left"> <a href="mailto:azouzim111@gmail.com" target="blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Codingworld2" /></a> </span>
+<span align="left"> <a href="https://instagram.com/coding_world2" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="Codingworld2" /></a> </span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,7 +47,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Codingworld2&show_icons=true&locale=en&layout=compact" alt="Codingworld2" /></p>
 <p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Codingworld2&show_icons=true&locale=en&layout=compact" alt="Codingworld2" /></p>
 
